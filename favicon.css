@@ -7,7 +7,7 @@ font-family: 'Source Serif Pro', serif;
 }
 h1
 {
-font-size:100px;
+font-size:40px;
 margin:50px auto 0 auto;
 color:#66BFBF;
 margin-top:0;
@@ -16,9 +16,8 @@ font-family: 'Montserrat Alternates', sans-serif;
 h2
 {
 color:#66BFBF;
-line-height:2;
 font-family: 'Montserrat Alternates', sans-serif;
-padding-bottom:20px;
+padding-bottom:10px;
 }
 h3
 {
@@ -32,17 +31,17 @@ padding-top:100px;
 }
 .devloper
 {
-height:300px;
-width:300px;
+height:150px;
+width:250px;
 }
 .pro
 {
 text-decoration:underline;
 }
-.K11
+.Kl
 {
-height:300px;
-width:300px;
+height:150px;
+width:150px;
 border-radius:100%;
 }
 a
@@ -65,14 +64,14 @@ padding:20px 0;
 
 .devlopement
 {
-width:300px;
-height:300px;
+width:100px;
+height:100px;
 border-radius:100%;
 }
 .writting
 {
-width:300px;
-height:300px;
+width:100px;
+height:100px;
 border-radius:100%;
 }
 .programmer
